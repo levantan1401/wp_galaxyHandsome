@@ -1,0 +1,143 @@
+2021-12-10T15:30:48+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_has_top_bar() in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php:75
+Stack trace:
+#0 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): flatsome_custom_css('')
+#1 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\blocks\legacy-widget.php(104): wp_head()
+#5 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\pl in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php on line 75
+
+2021-12-10T15:30:48+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_has_top_bar() in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php:75
+Stack trace:
+#0 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): flatsome_custom_css('')
+#1 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\blocks\legacy-widget.php(104): wp_head()
+#5 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\pl in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php on line 75
+
+2021-12-10T15:30:48+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_has_top_bar() in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php:75
+Stack trace:
+#0 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): flatsome_custom_css('')
+#1 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\blocks\legacy-widget.php(104): wp_head()
+#5 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\pl in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php on line 75
+
+2021-12-10T15:33:11+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_has_top_bar() in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php:75
+Stack trace:
+#0 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): flatsome_custom_css('')
+#1 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\blocks\legacy-widget.php(104): wp_head()
+#5 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\pl in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php on line 75
+
+2021-12-10T15:33:11+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_has_top_bar() in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php:75
+Stack trace:
+#0 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): flatsome_custom_css('')
+#1 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\blocks\legacy-widget.php(104): wp_head()
+#5 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\pl in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php on line 75
+
+2021-12-10T15:33:11+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_has_top_bar() in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php:75
+Stack trace:
+#0 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): flatsome_custom_css('')
+#1 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\blocks\legacy-widget.php(104): wp_head()
+#5 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\pl in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php on line 75
+
+2021-12-10T15:34:39+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_has_top_bar() in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php:75
+Stack trace:
+#0 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): flatsome_custom_css('')
+#1 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\blocks\legacy-widget.php(104): wp_head()
+#5 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\pl in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php on line 75
+
+2021-12-10T15:34:39+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_has_top_bar() in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php:75
+Stack trace:
+#0 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): flatsome_custom_css('')
+#1 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\blocks\legacy-widget.php(104): wp_head()
+#5 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\pl in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php on line 75
+
+2021-12-10T15:34:39+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_has_top_bar() in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php:75
+Stack trace:
+#0 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): flatsome_custom_css('')
+#1 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\blocks\legacy-widget.php(104): wp_head()
+#5 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\pl in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php on line 75
+
+2021-12-10T15:34:39+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_has_top_bar() in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php:75
+Stack trace:
+#0 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): flatsome_custom_css('')
+#1 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\blocks\legacy-widget.php(104): wp_head()
+#5 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\pl in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php on line 75
+
+2021-12-10T15:35:10+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_has_top_bar() in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php:75
+Stack trace:
+#0 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): flatsome_custom_css('')
+#1 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\blocks\legacy-widget.php(104): wp_head()
+#5 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\pl in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php on line 75
+
+2021-12-10T15:35:13+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_has_top_bar() in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php:75
+Stack trace:
+#0 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): flatsome_custom_css('')
+#1 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\blocks\legacy-widget.php(104): wp_head()
+#5 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\pl in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php on line 75
+
+2021-12-10T15:35:22+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_has_top_bar() in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php:75
+Stack trace:
+#0 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): flatsome_custom_css('')
+#1 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\blocks\legacy-widget.php(104): wp_head()
+#5 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-includes\pl in D:\xampp\htdocs\WP\TuHoc\galaxy_wordpress\wp-content\themes\flatsome\flatsome\inc\functions\function-custom-css.php on line 75
+
